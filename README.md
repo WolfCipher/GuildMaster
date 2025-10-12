@@ -12,6 +12,10 @@ Peyton Howardsmith, artist/programmer
 - cutscene
 - sound design
 
-Riley Howardsmith, artist/programmer ***(focused on NPC character animations and interactivity such as looking in the direction of the player, building environmental assets, quest assets)***
+Riley Howardsmith, artist/programmer
+- NPC character animations and interactivity
+  - NPCs can look in the direction of the player
+- building environmental assets
+- quest assets
 
 Homero Aguilar, story developer
