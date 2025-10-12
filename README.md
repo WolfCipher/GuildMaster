@@ -1,5 +1,5 @@
 # GuildMaster
-This is a medieval fantasy game where you play as a master of a guild associated with a goddess.
+This is a medieval fantasy game where you play as a character given a second chance at life to become a better person. Once a businessman in the modern world, the player character is now the master of a guild associated with the goddess who brought him back to life.
 
 <br>
 
