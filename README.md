@@ -6,6 +6,11 @@ This is a medieval fantasy game where you play as a character given a second cha
 ***This project was created in 2023 by the following people:***
 
 **Oscar Ma**, lead programmer
+- menu functions
+- quest list generator
+- quest item generator
+  - populating items in the correct location
+- determining quest success/fail
 
 **Peyton Howardsmith**, artist/programmer 
 - player and NPC character animations
@@ -20,3 +25,6 @@ This is a medieval fantasy game where you play as a character given a second cha
 - quest assets
 
 **Homero Aguilar**, story developer
+- character backstories and motives
+- character design moodboards
+- dialogue
