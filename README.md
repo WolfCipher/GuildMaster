@@ -3,7 +3,7 @@ This is a medieval fantasy game where you play as a character given a second cha
 
 <br>
 
-*This project was created in 2023 by the following people:*
+***This project was created in 2023 by the following people:***
 
 **Oscar Ma**, lead programmer
 
