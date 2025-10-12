@@ -6,8 +6,8 @@ This project was created in 2023 by the following people:
 
 Oscar Ma, lead programmer
 
-Peyton Howardsmith, artist/programmer (focused on player and NPC character animations, natural environmental assets, cutscene)
+Peyton Howardsmith, artist/programmer *(focused on player and NPC character animations, natural environmental assets, cutscene, sound)*
 
-Riley Howardsmith, artist/programmer (focused on NPC character animations and movements to look at the player, building environmental assets, quest assets)
+Riley Howardsmith, artist/programmer (focused on NPC character animations and interactivity such as looking in the direction of the player, building environmental assets, quest assets)
 
 Homero Aguilar, story developer
