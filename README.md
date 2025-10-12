@@ -15,7 +15,7 @@ This is a medieval fantasy game where you play as a character given a second cha
 
 **Riley Howardsmith**, artist/programmer
 - NPC character animations and interactivity
-  - NPCs can look in the direction of the player
+- NPCs can look in the direction of the player
 - building environmental assets
 - quest assets
 
