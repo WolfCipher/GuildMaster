@@ -30,7 +30,7 @@ The game was created using Unity, Photoshop, and Inky. The game is written in C#
 - NPC skeletal rigging
 - NPC character animations and interactivity
 - NPCs can look in the direction of the player
-- built environmental assets
+- architecture environmental assets
 - quest assets
 
 **Homero Aguilar**, story developer
