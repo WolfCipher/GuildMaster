@@ -1,5 +1,5 @@
 # GuildMaster
-This is a medieval fantasy game where you play as a character given a second chance at life to become a better person. Once a businessman in the modern world, the player character is now the master of a guild associated with the goddess who brought him back to life.
+This is a medieval fantasy game where you play as a character given a second chance at life to become a better person. Once a businessman in the modern world, the player character is now the master of a guild devoted to the goddess who brought him back to life.
 
 The game was created using Unity, Photoshop, and Inky. The game is written in C#.
 
@@ -30,7 +30,7 @@ The game was created using Unity, Photoshop, and Inky. The game is written in C#
 - NPC skeletal rigging
 - NPC character animations and interactivity
 - NPCs can look in the direction of the player
-- building environmental assets
+- built environmental assets
 - quest assets
 
 **Homero Aguilar**, story developer
