@@ -13,12 +13,19 @@ This is a medieval fantasy game where you play as a character given a second cha
 - determining quest success/fail
 
 **Peyton Howardsmith**, artist/programmer 
-- player and NPC character animations
+- player character and NPC puppet design and creation
+- player character and NPC skeletal rigging
+- player character and NPC idle animations
+- player character walk-cycle animation
+- programmed the correct player character puppet (left-, right-, backward-, or forward-facing) to appear
 - natural environmental assets
+- menu screen
 - cutscene
 - sound design
 
 **Riley Howardsmith**, artist/programmer
+- NPC puppet design and creation
+- NPC skeletal rigging
 - NPC character animations and interactivity
 - NPCs can look in the direction of the player
 - building environmental assets
